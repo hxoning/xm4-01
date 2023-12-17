@@ -8,4 +8,4 @@ if __name__ == "__main__":
         .replace("iu_", "bfcf0484-8bad-42d7-9810-49989551cdff")
         .replace("lv_", "/vless")
         .replace("mv_", "/vmess")
-        .replace("rt_", "/torjan"))
+        .replace("rt_", "/trojan"))
